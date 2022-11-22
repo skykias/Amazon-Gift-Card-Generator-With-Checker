@@ -6,4 +6,5 @@ this program does not steal or distribute any information, it simply generates c
 
 ![Image](https://i.imgur.com/cR89zI1.png)
 
-<a><button>Download</button></a>
+# Downloads
+[Download v1.0]()
