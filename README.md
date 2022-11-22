@@ -7,6 +7,6 @@ this program does not steal or distribute any information, it simply generates c
 ![Image](https://i.imgur.com/cR89zI1.png)
 
 # Downloads
-![Download Amazon Gift Card Generator](https://github.com/skykias/Amazon-Gift-Card-Generator-With-Checker/archive/refs/heads/main.zip)
-![Download Python 3.10.2](https://www.python.org/downloads/release/python-3102/)
-![Download Latest Python Version](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
+[Download Amazon Gift Card Generator](https://github.com/skykias/Amazon-Gift-Card-Generator-With-Checker/archive/refs/heads/main.zip)\n
+[Download Python 3.10.2](https://www.python.org/downloads/release/python-3102/)
+[Download Latest Python Version](https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe)
