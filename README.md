@@ -7,4 +7,4 @@ this program does not steal or distribute any information, it simply generates c
 ![Image](https://i.imgur.com/cR89zI1.png)
 
 # Downloads
-[Download v1.0]()
+[Download](https://github.com/skykias/Amazon-Gift-Card-Generator-With-Checker/archive/refs/heads/main.zip)
